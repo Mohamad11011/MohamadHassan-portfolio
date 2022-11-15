@@ -916,6 +916,7 @@ color: #000;
 
 .contact_info_sec {
  position: absolute;
+ font-size: 13px;
  background: linear-gradient(to top right, #000000d2 -5%, #000000e0 80%);
  right: 0.2px;
  top: 18%;
