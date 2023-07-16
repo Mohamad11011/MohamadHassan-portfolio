@@ -10,7 +10,6 @@ document.addEventListener("mousemove", function(event) {
 
 $("#CV").click(function(){
   $("#CV-PDF").show();
-  
 }); 
 
 
